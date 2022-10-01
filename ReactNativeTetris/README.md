@@ -1,13 +1,19 @@
 # react-native-tetris
 A javascript tetris game for React Native framework.
 
+## Demo
+![tetrisdemo](https://user-images.githubusercontent.com/45131554/193393571-ce6ab69c-f3dd-4dc9-b7af-c13373c05417.gif)
 
-![alt tag]()
+To rotate the tetromino press anywhere on the screen.
+
 
 ## Try it out and install with Snack
+https://snack.expo.dev/@812976/812976---tetris
 
-
-
+Options for download
+1) Download as .zip
+2) Install using Expo Go by scanning the qr code
+3) Run directly through Snack in web browser
 
 The MIT License (MIT)
 =====================
