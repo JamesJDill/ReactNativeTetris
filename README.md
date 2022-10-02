@@ -1,4 +1,4 @@
-##ReactNativeTetris
+## ReactNativeTetris
 A javascript tetris game for React Native framework.
 
 ## Demo
